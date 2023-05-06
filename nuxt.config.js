@@ -5,7 +5,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "nuxt-fonts-workshop",
+    title: "vuejs-conf-fonts-workshop",
     htmlAttrs: {
       lang: "en",
     },
