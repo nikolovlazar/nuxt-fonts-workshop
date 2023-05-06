@@ -3,28 +3,24 @@
 <template>
   <ul>
     <li>
-      <router-link to="/with-google-fonts">With Google Fonts</router-link>
+      <NuxtLink to="/with-google-fonts">With Google Fonts</NuxtLink>
     </li>
     <li>
-      <router-link to="/with-modern-font-stacks">
+      <NuxtLink to="/with-modern-font-stacks">
         With Modern Font Stacks
-      </router-link>
+      </NuxtLink>
     </li>
     <li>
-      <router-link to="/font-display-block">font-display: block</router-link>
+      <NuxtLink to="/font-display-block">font-display: block</NuxtLink>
     </li>
     <li>
-      <router-link to="/font-display-swap">font-display: swap</router-link>
+      <NuxtLink to="/font-display-swap">font-display: swap</NuxtLink>
     </li>
     <li>
-      <router-link to="/font-display-fallback">
-        font-display: fallback
-      </router-link>
+      <NuxtLink to="/font-display-fallback"> font-display: fallback </NuxtLink>
     </li>
     <li>
-      <router-link to="/font-display-optional">
-        font-display: optional
-      </router-link>
+      <NuxtLink to="/font-display-optional"> font-display: optional </NuxtLink>
     </li>
   </ul>
 </template>
